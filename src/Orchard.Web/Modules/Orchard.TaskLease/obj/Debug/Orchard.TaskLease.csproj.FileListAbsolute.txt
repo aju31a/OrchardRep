@@ -1,0 +1,8 @@
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Orchard.TaskLease.dll.config
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Orchard.TaskLease.dll
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Orchard.TaskLease.pdb
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Autofac.dll
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.TaskLease\bin\Autofac.xml
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.TaskLease\obj\Debug\Orchard.TaskLease.csprojResolveAssemblyReference.cache
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.TaskLease\obj\Debug\Orchard.TaskLease.dll
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.TaskLease\obj\Debug\Orchard.TaskLease.pdb

@@ -1,0 +1,13 @@
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll.config
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.dll
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Pages.pdb
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.dll
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Localization.dll
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\bin\MSTranslitTools.dll
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.pdb
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.ContentPicker.dll.config
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Localization.pdb
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\bin\Orchard.Localization.dll.config
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.csprojResolveAssemblyReference.cache
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.dll
+D:\Projects\William\Source Code\src\Orchard.Web\Modules\Orchard.Pages\obj\Debug\Orchard.Pages.pdb
